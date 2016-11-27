@@ -1,13 +1,13 @@
 {
   "name": "smugmug",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "license": "MIT",
   "description": "SmugMug API Client for Typescript",
   "main": "js/index.js",
   "typings": "js/index",
   "repository": {
     "type": "git",
-    "url": "git+https://www.github.com/cwharris/smugmug-client-ts.git"
+    "url": "git+https://www.github.com/cwharris/smugmug-client-typescript.git"
   },
   "scripts": {
     "build": "tsc"
@@ -24,9 +24,9 @@
     "url": "http://www.github.com/cwharris"
   },
   "bugs": {
-    "url": "https://github.com/cwharris/smugmug-client-ts/issues"
+    "url": "https://github.com/cwharris/smugmug-client-typescript/issues"
   },
-  "homepage": "https://github.com/basarat/smugmug-client-ts#readme",
+  "homepage": "https://github.com/cwharris/smugmug-client-typescript",
   "devDependencies": {
     "path": "^0.12.7",
     "webpack": "^1.13.3",
